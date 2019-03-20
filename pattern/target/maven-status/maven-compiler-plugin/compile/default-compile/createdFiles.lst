@@ -2,7 +2,6 @@ org\pattern\design\abstracts\observer\registrar\AbstractRegistrar.class
 org\pattern\design\contracts\observer\SubscriptionType.class
 org\pattern\design\contracts\decorator\Decorator.class
 org\pattern\design\contracts\observer\SubscribersRegistryData.class
-org\pattern\design\impl\siganl\SignalFactory.class
 org\pattern\design\contracts\decorator\Component.class
 org\pattern\design\impl\observer\registrar\SubscriberRegistrar.class
 org\pattern\design\abstracts\observer\publisher\AbstractPublisher.class
@@ -15,4 +14,5 @@ org\pattern\design\contracts\observer\Publisher.class
 org\pattern\design\impl\observer\publisher\Publisher.class
 org\pattern\design\App.class
 org\pattern\design\contracts\observer\Observer.class
+org\pattern\design\impl\signal\SignalFactory.class
 org\pattern\design\contracts\observer\MessageInformation.class

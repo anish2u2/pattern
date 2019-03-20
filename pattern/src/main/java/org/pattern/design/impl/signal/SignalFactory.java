@@ -1,4 +1,4 @@
-package org.pattern.design.impl.siganl;
+package org.pattern.design.impl.signal;
 
 import org.pattern.design.contracts.signal.Signal;
 
