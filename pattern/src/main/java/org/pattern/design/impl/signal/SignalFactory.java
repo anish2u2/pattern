@@ -4,7 +4,7 @@ import org.pattern.design.contracts.signal.Signal;
 
 public class SignalFactory implements org.pattern.design.contracts.signal.Signal {
 
-	private Boolean signal;
+	private Boolean signal = false;
 
 	private SignalFactory() {
 
